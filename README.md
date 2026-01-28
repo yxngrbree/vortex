@@ -59,9 +59,7 @@ The script is divided into two parts:
 
 ## Installation
 
-```bash
-# Clone the repository
-git clone [https://github.com/YOUR_USERNAME/vortex.git](https://github.com/yxngrbree/vortex.git)
+
 ```
 # Enter the directory
 ```
